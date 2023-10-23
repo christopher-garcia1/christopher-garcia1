@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/christopher-garcia1/christopher-garcia1/blob/main/Christopher%20Garcia%20(2).png)]
+![MasterHead](https://github.com/christopher-garcia1/christopher-garcia1/blob/main/Christopher%20Garcia%20(2).png)
 <h1 align="center">Hi 👋, I'm Christopher Garcia</h1>
 <h3 align="center">A passionate frontend developer from Miami</h3>
 
