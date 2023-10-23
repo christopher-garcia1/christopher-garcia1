@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.linkedin.com/in/christopher-garcia-webdev/overlay/background-image/](https://www.canva.com/design/DAFyG21IcHg/wkLxk4KGvjBX_ysSUY81eQ/view?utm_content=DAFyG21IcHg&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+
 <h1 align="center">Hi 👋, I'm Christopher Garcia</h1>
 <h3 align="center">A passionate frontend developer from Miami</h3>
 
